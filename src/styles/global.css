@@ -1,0 +1,26 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+div.container{
+  width: 800px;
+}
+
+input:focus {
+  outline: 0;
+}
+
+input, textarea{
+  border: 1px solid #FFF;
+}
+
+body{
+  padding:20px;
+}
+
